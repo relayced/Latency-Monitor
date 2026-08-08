@@ -2,7 +2,7 @@
 
 A real-time network latency (ms) monitor that runs entirely in the browser — no backend, no server, no setup for anyone visiting the site.
 
-**Live site:** https://relayced.github.io/wifi-ms-monitor/
+**Live site:** https://relayced.github.io/Latency-Monitor/
 
 ## What it does
 
